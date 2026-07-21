@@ -1,3 +1,4 @@
+[Social_Media_Sentiment_Analysis.ipynb](https://github.com/user-attachments/files/30217296/Social_Media_Sentiment_Analysis.ipynb)
 # Social Media Sentiment & Engagement Analysis
 
 An end-to-end exploratory data analysis (EDA) of 2,260+ social media posts across five platforms, exploring how sentiment, platform, follower size, and timing relate to post engagement.
