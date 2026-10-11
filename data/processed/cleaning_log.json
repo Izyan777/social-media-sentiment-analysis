@@ -1,0 +1,13 @@
+{
+  "raw_rows": 20229,
+  "dropped_invalid_label_or_missing_text": 1,
+  "dropped_empty_or_junk_text": 220,
+  "dropped_conflicting_label_rows": 209,
+  "dropped_duplicate_rows": 471,
+  "final_rows": 19328,
+  "label_counts": {
+    "Neutral": 8319,
+    "Positive": 5780,
+    "Negative": 5229
+  }
+}
